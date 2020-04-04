@@ -1,4 +1,6 @@
-Intall dependencies:
+npm_modules удалил там больше 12000 файлов
+
+Install dependencies:
 ```bash
 $ npm install
 ```
